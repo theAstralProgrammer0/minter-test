@@ -25,6 +25,8 @@
   "bugs": {
     "url": "https://github.com/theAstralProgrammer0/minter-test/issues"
   },
-  "homepage": "https://github.com/theAstralProgrammer0/minter-test#readme"
+  "homepage": "https://github.com/theAstralProgrammer0/minter-test#readme",
+  "devDependencies": {
+    "sha1": "^1.1.1"
+  }
 }
-
